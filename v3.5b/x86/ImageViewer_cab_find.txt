@@ -1,0 +1,3 @@
+Please note that the ImageViewer.cab and EngineManager.cab files are no longer distributed with the SDK.
+Instead, you will find these files in their most updated versions on any of the XProtect servers under
+%PROGRAMFILES%\Milestone\Milestone XProtect Download Manager\Remote Client\English\En-US
